@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=Devops
+project.version=6.5
+project.original.version=4.2
+product.name=NeoLoad
+product.original.name=
+product.original.version=
+project.id=3e898eb0-b144-4f1a-8608-73a1e8a90335
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+team.server.project=/srestrepo1/Devops.git
